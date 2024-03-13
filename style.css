@@ -1,0 +1,52 @@
+
+#navbar{
+    display: flex;
+    margin-left: 15%;
+    gap: 15%;    
+}
+
+.button{
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 50px;
+}
+h1{
+    font-size: xx-large;
+    margin-left: 15%;
+    
+}
+#explore{
+    display: flex;
+    gap: 10%;
+    margin-left: 15%;
+}
+.nav{
+    display: flex;
+    gap: 10%;
+}
+.subtitles{
+    display: flex;
+    gap: 8%;
+}
+.clothes{
+    display: flex;
+    margin-left: 15%;
+}
+#newarrivals{
+    display: flex;
+    gap: 10%;
+    margin-left: 15%;
+}
+#men{
+    display: flex;
+    margin-left: 15%;
+}
+#footer{
+    display: flex;
+    gap: 8%;
+    margin-left: 15%;
+}
+@media all and(max-width:500px){
+    body
+}
